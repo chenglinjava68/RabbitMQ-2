@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EasyMQ/EasyMQ.iml" filepath="$PROJECT_DIR$/EasyMQ/EasyMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnRabbit.iml" filepath="$PROJECT_DIR$/LearnRabbit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MQEmulator/MQEmulator.iml" filepath="$PROJECT_DIR$/MQEmulator/MQEmulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Publish_Subscribe/Publish_Subscribe.iml" filepath="$PROJECT_DIR$/Publish_Subscribe/Publish_Subscribe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoutingDirect/RoutingDirect.iml" filepath="$PROJECT_DIR$/RoutingDirect/RoutingDirect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoutingTopic/RoutingTopic.iml" filepath="$PROJECT_DIR$/RoutingTopic/RoutingTopic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkQueue/WorkQueue.iml" filepath="$PROJECT_DIR$/WorkQueue/WorkQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkQueueAck/WorkQueueAck.iml" filepath="$PROJECT_DIR$/WorkQueueAck/WorkQueueAck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkQueueFair/WorkQueueFair.iml" filepath="$PROJECT_DIR$/WorkQueueFair/WorkQueueFair.iml" />
+    </modules>
+  </component>
+</project>

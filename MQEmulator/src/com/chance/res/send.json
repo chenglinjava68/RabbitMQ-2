@@ -1,0 +1,17 @@
+{
+  "head": {
+    "type": "service",
+    "deviceID": ""
+  },
+  "body": {
+    "head": {
+      "appid": "WSAPAPP",
+      "cmdcode": "010001",
+      "requestid": "FE09875DCA453345FE09875DCA453345"
+    },
+    "cmddata": {
+      "servicename": "XXXXX",
+      "params": "aa"
+    }
+  }
+}
