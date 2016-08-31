@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/EasyMQ/EasyMQ.iml" filepath="$PROJECT_DIR$/EasyMQ/EasyMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnRabbit.iml" filepath="$PROJECT_DIR$/LearnRabbit.iml" />
       <module fileurl="file://$PROJECT_DIR$/MQEmulator/MQEmulator.iml" filepath="$PROJECT_DIR$/MQEmulator/MQEmulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MQExtensions/MQExtensions.iml" filepath="$PROJECT_DIR$/MQExtensions/MQExtensions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Publish_Subscribe/Publish_Subscribe.iml" filepath="$PROJECT_DIR$/Publish_Subscribe/Publish_Subscribe.iml" />
       <module fileurl="file://$PROJECT_DIR$/RoutingDirect/RoutingDirect.iml" filepath="$PROJECT_DIR$/RoutingDirect/RoutingDirect.iml" />
       <module fileurl="file://$PROJECT_DIR$/RoutingTopic/RoutingTopic.iml" filepath="$PROJECT_DIR$/RoutingTopic/RoutingTopic.iml" />
